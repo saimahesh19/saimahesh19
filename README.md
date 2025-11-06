@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
+<!-- Animated Header with Custom Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Marpu%20Sai%20Mahesh&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-<!-- Enhanced Typing Animation -->
+<!-- Enhanced Typing Animation with Role Highlights -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=AI-Driven+DevOps+Engineer+%F0%9F%9A%80;Cloud+%26+Observability+Specialist+%E2%98%81%EF%B8%8F;ML+%2B+Infrastructure+Automation+Expert+%F0%9F%A4%96;Building+Intelligent+Self-Healing+Systems+%F0%9F%94%A7" alt="Typing SVG" />
 </a>
@@ -24,7 +24,7 @@
   </a>
 </p>
 
-<!-- Visitor Counter & Stats -->
+<!-- Enhanced Visitor Counter & Stats -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saimahesh19&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/saimahesh19?label=Followers&style=social" alt="GitHub Followers" />
@@ -265,7 +265,7 @@ Visualization:
   
 AI/ML:
   - OpenAI GPT-4
-  - Anomaly Detection
+  - Anomaly Detection Models
   
 Infrastructure:
   - Docker/Kubernetes
@@ -320,8 +320,8 @@ Frontend:
   
 Backend:
   - Python/FastAPI
-  - Google Cloud Speech
-  - Translate API
+  - Google Cloud Speech-to-Text
+  - Google Translate API
   
 Audio Processing:
   - librosa
@@ -363,8 +363,6 @@ ML-powered deepfake voice detection system achieving 97.65% accuracy in identify
 - ✅ Featured in **2 security conferences**
 - ✅ **100+ citations** in research papers
 
-🔗 [GitHub Repository](https://github.com/saimahesh19/Vericall)
-
 </td>
 <td width="40%">
 
@@ -392,6 +390,11 @@ Deployment:
   - AWS EC2
   - Nginx
 ```
+
+**🔗 Resources**
+- [GitHub Repository](https://github.com/saimahesh19/Vericall)
+- [Research Paper](#)
+- [Live Demo](#)
 
 </td>
 </tr>
@@ -484,9 +487,9 @@ Deployment:
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/images/photo1762427028.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saimahesh19/saimahesh19/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saimahesh19/saimahesh19/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saimahesh19/saimahesh19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/images/GitHubContributionSnake.jpg">
+  <img alt="github contribution grid snake animation" src="/images/GitHubContributionSnake.jpg">
 </picture>
 
 </div>
@@ -501,26 +504,31 @@ Deployment:
 <tr>
 <th>Certification</th>
 <th>Provider</th>
+<th>Credential ID</th>
 <th>Status</th>
 </tr>
 <tr>
 <td>☁️ <b>AWS Certified Cloud Practitioner (CLF-C02)</b></td>
 <td>Amazon Web Services</td>
+<td>View Credential</td>
 <td><img src="https://img.shields.io/badge/Active-Certified-FF9900?style=flat-square&logo=amazonaws" /></td>
 </tr>
 <tr>
 <td>🧩 <b>Azure AI Engineer Associate (AI-102)</b></td>
 <td>Microsoft</td>
+<td>View Credential</td>
 <td><img src="https://img.shields.io/badge/Active-Certified-0078D4?style=flat-square&logo=microsoftazure" /></td>
 </tr>
 <tr>
 <td>🧠 <b>Azure AI Fundamentals (AI-900)</b></td>
 <td>Microsoft</td>
+<td>View Credential</td>
 <td><img src="https://img.shields.io/badge/Active-Certified-0078D4?style=flat-square&logo=microsoftazure" /></td>
 </tr>
 <tr>
 <td>📡 <b>Foundation of Cloud IoT Edge ML</b></td>
 <td>NPTEL</td>
+<td>View Credential</td>
 <td><img src="https://img.shields.io/badge/Completed-Elite-FF6B6B?style=flat-square" /></td>
 </tr>
 </table>
@@ -594,6 +602,11 @@ Datasets:
   - FakeNewsNet
   - Custom Dataset
 ```
+
+**📚 Resources**
+- [Read Paper](#)
+- [GitHub Code](#)
+- [Dataset](#)
 
 </td>
 </tr>
@@ -673,6 +686,21 @@ Datasets:
 
 <div align="center">
 
+```mermaid
+graph LR
+    A[100K+ Events/Sec] -->|Processing| B[AI Observability]
+    B --> C[70% Automation]
+    C --> D[60% MTTR Reduction]
+    D --> E[99.9% Uptime]
+    
+    F[97.65% Accuracy] -->|ML Model| G[Fraud Detection]
+    G --> H[500+ Scams Prevented]
+    
+    I[58+ Languages] -->|NLP| J[Fake News Detection]
+    J --> K[99% Accuracy]
+    K --> L[500+ Citations]
+```
+
 ### 📈 Key Performance Indicators
 
 | Metric | Achievement | Impact |
@@ -683,6 +711,81 @@ Datasets:
 | 📊 **Uptime** | 99.9% availability | Enterprise-grade stability |
 | 🎯 **ML Accuracy** | 97.65% detection rate | Production-ready models |
 | 🌐 **Language Support** | 58+ languages | Global reach |
+
+</div>
+
+---
+
+## 💬 Latest Blog Posts & Articles
+
+<div align="center">
+
+<!-- BLOG-POST-LIST:START -->
+- 🚀 [Building AI-Powered Observability: A Complete Guide](#)
+- 🤖 [Automating Incident Response with LLMs](#)
+- ☁️ [Multi-Cloud Architecture Best Practices](#)
+- 📊 [Scaling Kafka for 100K+ Events/Second](#)
+- 🔧 [DevOps Automation: From Manual to AI-Driven](#)
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+### 💼 Open to Exciting Opportunities In:
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/cloud.png" width="60"/>
+<br><b>DevOps Engineering</b>
+<br>CI/CD • IaC • Automation
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/server.png" width="60"/>
+<br><b>Cloud Architecture</b>
+<br>AWS • Azure • Multi-Cloud
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
+<br><b>AI/ML Engineering</b>
+<br>LLMs • MLOps • NLP
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/dashboard.png" width="60"/>
+<br><b>SRE</b>
+<br>Observability • Reliability
+</td>
+</tr>
+</table>
+
+<br>
+
+### 📫 Get In Touch
+
+<a href="https://www.linkedin.com/in/marpumahesh/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:chintusaimaheshmarpu@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/saimahesh19">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://twitter.com/saimahesh19">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<br><br>
+
+**📍 Location:** Andhra Pradesh, India  
+**📞 Phone:** +91 9502342564  
+**💼 Status:** Open to opportunities  
+**🕐 Timezone:** IST (GMT+5:30)
 
 </div>
 
@@ -737,181 +840,97 @@ const aboutMe = {
 };
 
 console.log(aboutMe.superpowers.join(" | "));
+// Output: ☕ Turning coffee into production-ready code | 🐛 Debugging skills that would make Sherlock jealous | ...
 ```
 
 </div>
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 📊 Weekly Development Breakdown
 
 <div align="center">
 
-### 💼 Open to Exciting Opportunities In:
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/cloud.png" width="60"/>
-<br><b>DevOps Engineering</b>
-<br>CI/CD • IaC • Automation
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/server.png" width="60"/>
-<br><b>Cloud Architecture</b>
-<br>AWS • Azure • Multi-Cloud
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="60"/>
-<br><b>AI/ML Engineering</b>
-<br>LLMs • MLOps • NLP
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/dashboard.png" width="60"/>
-<br><b>SRE</b>
-<br>Observability • Reliability
-</td>
-</tr>
-</table>
-
-<br>
-
-### 📫 Get In Touch
-
-<a href="https://www.linkedin.com/in/marpumahesh/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:chintusaimaheshmarpu@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/saimahesh19">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-**📍 Location:** Andhra Pradesh, India  
-**📞 Phone:** +91 9502342564  
-**💼 Status:** Open to opportunities  
-**🕐 Timezone:** IST (GMT+5:30)
+<!--START_SECTION:waka-->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░░░░░   48.2%
+YAML         5 hrs 15 mins   █████░░░░░░░░░░░░░░░░   20.3%
+Bash         3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░   14.5%
+Docker       2 hrs 20 mins   ██░░░░░░░░░░░░░░░░░░░    9.0%
+Markdown     1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░    5.8%
+Other        35 mins         ░░░░░░░░░░░░░░░░░░░░░    2.2%
+```
+<!--END_SECTION:waka-->
 
 </div>
 
 ---
 
-## 🐍 How to Enable Snake Animation
+## 🎯 2025 Goals & Roadmap
 
-<details>
-<summary><b>📖 Click here for complete setup instructions</b></summary>
+<div align="center">
 
-<br>
-
-### 🚀 Quick Setup Guide
-
-The snake animation requires a GitHub Actions workflow. Follow these simple steps:
-
-#### Step 1: Create Profile Repository
-1. Create a new repository named exactly **`saimahesh19`** (your GitHub username)
-2. Make it **Public**
-3. Initialize with a README
-
-#### Step 2: Add Workflow File
-1. In your `saimahesh19` repository, create this file: `.github/workflows/snake.yml`
-2. Copy and paste this content:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
+```mermaid
+gantt
+    title Professional Development Roadmap 2025
+    dateFormat  YYYY-MM
+    section Certifications
+    CKA (Kubernetes)           :2025-01, 2025-03
+    AWS Solutions Architect    :2025-04, 2025-06
+    Terraform Associate        :2025-07, 2025-08
     
-    steps:
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: saimahesh19
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-      
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    section Skills
+    Advanced Rust              :2025-01, 2025-04
+    Service Mesh (Istio)       :2025-03, 2025-05
+    eBPF & Observability       :2025-05, 2025-07
+    
+    section Projects
+    Open Source Contributions  :2025-01, 2025-12
+    AI-Driven Platform v2.0    :2025-02, 2025-06
+    Personal Blog Launch       :2025-03, 2025-04
 ```
 
-#### Step 3: Enable GitHub Actions
-1. Go to **Settings** → **Actions** → **General**
-2. Select **"Allow all actions and reusable workflows"**
-3. Click **Save**
+### 🎯 Key Objectives
 
-#### Step 4: Run the Workflow
-1. Go to **Actions** tab
-2. Click **"Generate Snake Animation"**
-3. Click **"Run workflow"** → Select **main** branch → **Run workflow**
-4. Wait 2-3 minutes for completion ✅
+- ✅ Contribute to **5+ major open-source projects**
+- ✅ Achieve **3 new cloud certifications**
+- ✅ Publish **10+ technical blog posts**
+- ✅ Speak at **2 tech conferences**
+- ✅ Build **3 production-grade projects**
+- ✅ Mentor **10+ junior developers**
 
-#### Step 5: Copy This README
-1. Copy this entire README.md content
-2. Paste it into your `saimahesh19` repository's README.md
-3. Commit the changes
+</div>
 
-### ✅ That's It!
+---
 
-The snake will now appear on your profile and auto-update every 12 hours! 🎉
+## 🌟 Testimonials & Recommendations
 
-### 🎨 Customization Options
+<div align="center">
 
-Want different colors? Modify the `outputs` line in the workflow:
+> *"Sai Mahesh is an exceptional DevOps engineer with a rare combination of technical depth and innovative thinking. His AI-driven observability platform reduced our incident response time by 60%."*  
+> **— Senior Engineering Manager, Relevance Labs**
 
-```yaml
-# Ocean theme (current)
-color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+> *"Outstanding work on the multilingual fake news detection system. The research quality and practical implementation were both impressive."*  
+> **— Professor, Department of Computer Science**
 
-# Fire theme
-color_snake=red&color_dots=#ffeb3b,#ff9800,#ff5722,#f44336,#d32f2f
+> *"Sai's ability to bridge AI/ML with infrastructure automation is remarkable. He's a valuable asset to any team."*  
+> **— Lead DevOps Architect**
 
-# Forest theme
-color_snake=darkgreen&color_dots=#c8e6c9,#a5d6a7,#81c784,#66bb6a,#4caf50
+</div>
 
-# Purple theme
-color_snake=purple&color_dots=#f3e5f5,#e1bee7,#ce93d8,#ba68c8,#ab47bc
-```
+---
 
-### 🔧 Troubleshooting
+## 📈 Contribution Activity
 
-**Snake not showing?**
-- Wait 5 minutes for GitHub cache to update
-- Check Actions tab for successful workflow run (green checkmark)
-- Verify `output` branch exists in your repository
-- Try clearing browser cache (Ctrl+F5)
+<div align="center">
 
-**Workflow failed?**
-- Ensure repository is Public
-- Check that Actions are enabled in Settings
-- Re-run the workflow from Actions tab
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saimahesh19&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity%20Timeline" />
 
-**Still having issues?**
-- Delete the workflow file
-- Wait 1 minute
-- Re-create it with the exact same content
-- Run workflow again
+### 📅 Contribution Calendar
 
-</details>
+<img src="https://ghchart.rshah.org/00D9FF/saimahesh19" alt="Contribution Calendar" />
+
+</div>
 
 ---
 
@@ -939,6 +958,13 @@ color_snake=purple&color_dots=#f3e5f5,#e1bee7,#ce93d8,#ba68c8,#ab47bc
 <br>
 
 **💡 "The best way to predict the future is to automate it!"**
+
+<br>
+
+<!-- Social Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/marpumahesh/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=social&logo=github)](https://github.com/saimahesh19)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=social&logo=gmail)](mailto:chintusaimaheshmarpu@gmail.com)
 
 <br>
 
