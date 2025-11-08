@@ -776,9 +776,7 @@ graph LR
 <a href="https://github.com/saimahesh19">
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://twitter.com/saimahesh19">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
+
 
 <br><br>
 
