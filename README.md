@@ -8,6 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=AI-Driven+DevOps+Engineer+%F0%9F%9A%80;Cloud+%26+Observability+Specialist+%E2%98%81%EF%B8%8F;ML+%2B+Infrastructure+Automation+Expert+%F0%9F%A4%96;Building+Intelligent+Self-Healing+Systems+%F0%9F%94%A7" alt="Typing SVG" />
 </a>
 
+<a>
+
+</a>
 <!-- Professional Social Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/marpumahesh/">
